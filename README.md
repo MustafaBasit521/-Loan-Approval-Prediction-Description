@@ -40,8 +40,6 @@ Handling Missing Values
 
 Filled categorical NaNs with mode.
 
-Filled numerical NaNs with median.
-
 Encoding Categorical Features
 
 Applied One-Hot Encoding for person_home_ownership, loan_intent, and cb_person_default_on_file.
